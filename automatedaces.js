@@ -1,8 +1,3 @@
-/*
-  The original source code file for Node-JS bot
-  AutomatedAces.
-  Edited by Keanu73RBLX
-*/
 var irc = require('irc');
 var config = {
         server: 'irc.freenode.net',
