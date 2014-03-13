@@ -1,10 +1,10 @@
 {
     "botproperties": {
-        "BotName": "AutomatedAces"
-        "BotVersion": "0.0.1"
+        "BotName": "AutomatedAces",
+        "BotVersion": "0.0.1",
         "BotHas": {
-            "Modules": "Module System"
-            "Contribrouters": "AcesWayUpHigh, Keanu73, JohnMHarrisJr"
+            "Modules": "Module System",
+            "Contribrouters": "AcesWayUpHigh, Keanu73, JohnMHarrisJr",
         }
     }
     "dependencies": {
