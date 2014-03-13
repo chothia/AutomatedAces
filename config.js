@@ -1,6 +1,6 @@
 var config = {
 	server: "irc.freenode.net",
-	nick: "AcesUpHigh",
+	nick: "AutomatedAces",
 	password: null,
 	userName: "AutomatedAces",
 	realName: "AutomatedAces bot by AcesWayUpHigh",
@@ -9,7 +9,7 @@ var config = {
 	showErrors: false,
 	autoRejoin: true,
 	autoConnect: true,
-	channels: ["#roblox"],
+	channels: ["#roblox-web"],
 	retryCount: null,
 	retryDelay: 2000,
 	secure: false,
