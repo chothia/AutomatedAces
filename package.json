@@ -1,12 +1,4 @@
 {
-    "botproperties": {
-        "BotName": "AutomatedAces",
-        "BotVersion": "0.0.1",
-        "BotHas": {
-            "Modules": "Module System",
-            "Contribrouters": "AcesWayUpHigh, Keanu73, JohnMHarrisJr",
-        }
-    }
     "dependencies": {
         "irc": "0.3.6"
     }
