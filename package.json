@@ -1,5 +1,24 @@
 {
-    "dependencies": {
-        "irc": "0.3.6"
+  "name": "AutomatedAces",
+  "description": "AutomatedAces IRC Bot",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "JohnMHarrisJr",
+      "email": "jharris@myzillawr.com",
+      "web": "https://github.com/JohnMHarrisJr"
     }
+  ],
+  "maintainers": [
+    {
+      "name": "AcesWayUpHigh",
+      "email": "",
+      "web": "https://github.com/AcesWayUpHigh/"
+    }
+  ],
+  "main": "automatedaces.js",
+  "dependencies": {
+    "irc": ">=0.3.6"
+  },
+  "homepage": "https://github.com/AcesWayUpHigh/AutomatedAces/"
 }
