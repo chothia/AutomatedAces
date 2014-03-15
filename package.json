@@ -16,6 +16,12 @@
       "web": "https://github.com/AcesWayUpHigh/"
     }
   ],
+  "secondcontributors": [
+    {
+      "name": "Keanu73",
+      "email": "guestone63@gmail.com",
+      "web": "https://github.com/Keanu73
+    }
   "main": "automatedaces.js",
   "dependencies": {
     "irc": ">=0.3.6"
