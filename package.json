@@ -22,7 +22,11 @@
       "email": "",
       "web": "https://github.com/AcesWayUpHigh/"
     }
-  ]
+  ],
+  "time": [
+    {
+      "timezone": "GMT/PST"
+    }
   "main": "automatedaces.js",
   "dependencies": {
     "irc": ">=0.3.6"
