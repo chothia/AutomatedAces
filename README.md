@@ -2,6 +2,7 @@ AutomatedAces
 ==============
 A Node.js IRC bot by AcesWayUpHigh.
 Required libraries: irc
+
 Required: node.js - from nodejs.org
 Steps:
 ===========
