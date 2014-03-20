@@ -8,6 +8,13 @@
       "email": "jharris@myzillawr.com",
       "web": "https://github.com/JohnMHarrisJr"
     }
+    
+    {
+      "name": "Keanu73",
+      "email": "guestone63@gmail.com",
+      "web": "https://github.com/Keanu73",
+      "website": "http://www.keanu73personalwebsite.tk"
+    }
   ],
   "maintainers": [
     {
@@ -15,7 +22,6 @@
       "email": "",
       "web": "https://github.com/AcesWayUpHigh/"
     }
-  ]
   ]
   "main": "automatedaces.js",
   "dependencies": {
