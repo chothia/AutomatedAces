@@ -2,14 +2,13 @@ AutomatedAces
 ==============
 A Node.js IRC bot by AcesWayUpHigh.
 
-Required libraries: irc
+Required: Node.js
 
-Required: node.js - from nodejs.org
 Steps:
 ===========
-1. Download and install node.js.
-2. Open Command Prompt and type "npm install irc".
-3. Get a copy of this bot using git clone.
-4. Run it with "node automatedaces.js".
-5. It's running! And you are... done!
+1. Download and install [Node.js](http://nodejs.org/)
+2. Get a copy of this bot using git clone
+3. Open your OS' terminal application in the directory of the bot and run "npm install" and it will install all dependencies (Currently only IRC)
+4. Run it with "node automatedaces.js"
+
 Have fun!
